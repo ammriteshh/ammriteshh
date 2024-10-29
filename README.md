@@ -44,6 +44,7 @@
     <img src="https://skillicons.dev/icons?i=nodejs,typescript,express,mongodb,c,cpp,java,nextjs,mysql" /><br>
 </div>
 
+<h2 align="center">Streak</h2>
 <div align="center">
    <a href="https://git.io/streak-stats">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=ammriteshh&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
