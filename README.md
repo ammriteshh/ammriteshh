@@ -44,10 +44,11 @@
     <img src="https://skillicons.dev/icons?i=nodejs,typescript,express,mongodb,c,cpp,java,nextjs,mysql" /><br>
 </div>
 
-<div>
-   <a> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ammriteshh%20)](https://git.io/streak-stats)</a>
+<div align="center">
+   <a href="https://git.io/streak-stats">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=ammriteshh&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+   </a>
 </div>
 
 <br/>
-
 
