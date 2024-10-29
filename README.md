@@ -1,36 +1,28 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Amtritesh+Singh!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">A passionate Software Developer</h3>
 
 <br/>
 
 <div align="center">
  
 🌱 About Me:
-- I'm a B.Tech Computer Science and Engineering 2nd-year student, actively exploring different domains within tech.
+- I'm a B.Tech Computer Science and Engineering student, actively exploring different domains within tech.
 - I'm passionate about learning and have a curious mind that constantly seeks new challenges.
 - I'm continuously evolving and enjoy adapting to new ideas and opportunities.
 
 👩‍💻 Currently Learning:
-- Web Development ( JavaScript, Tailwind CSS)
+- Web Development (ReactJS, Tailwind CSS)
 - Data Structures and Algorithms
-- Data Science and Machine Learning
-
-💡 Interests:
-- I’m particularly interested in open-source contributions, web development, and solving real-world problems through code.
-- I love participating in hackathons and coding competitions!
-
-💬 Looking to Collaborate:
-- I’m eager to collaborate on open-source projects and contribute to innovative tech solutions.
-- Feel free to connect with me for projects on web development or data science.
+- Web and App Testing with Selenium
 
 📫 How to Reach Me:
-- Email: divanshigoyal051209@gmail.com
-- LinkedIn: https://www.linkedin.com/in/divanshigoyal09
+- Email: amriteshsingh2728@gmail.com
+- LinkedIn: https://www.linkedin.com/in/ammriteshh/
 
  </div>
  
