@@ -44,6 +44,10 @@
     <img src="https://skillicons.dev/icons?i=nodejs,typescript,express,mongodb,c,cpp,java,nextjs,mysql" /><br>
 </div>
 
+<div>
+    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ammriteshh%20)](https://git.io/streak-stats)
+</div>
+
 <br/>
 
 
