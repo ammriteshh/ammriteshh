@@ -45,7 +45,7 @@
 </div>
 
 <div>
-    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ammriteshh%20)](https://git.io/streak-stats)
+   <a> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ammriteshh%20)](https://git.io/streak-stats)</a>
 </div>
 
 <br/>
