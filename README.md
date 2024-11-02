@@ -18,30 +18,24 @@
 <h3 align="center"> 🛠️ Languages and Tools </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,typescript,next,mysql,nodejs,express,cpp,py,java,selenium,appium,git,github,vscode,figma&perline=8" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,typescript,next,mysql,nodejs,express,cpp,py,java,selenium,git,github,vscode,figma&perline=8" />
   </a>
 </p>
 
 <br>
 
 <div align="center">
-   
- <img src="https://github-readme-streak-stats.herokuapp.com?user=ammriteshh-19&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" style="width: 51%;"/>
-
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=ammriteshh&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" style="width: 51%;"/>
 </div>
 
 <div align="center">
-
-   <img src="https://github-readme-stats-own-pi.vercel.app/api?username=ammriteshh-19&&show_icons=true&theme=dark&hide_border=false&include_all_commits=false&count_private=true&ring_color=79FF97" style="width:51%"/>
+   <img src="https://github-readme-stats-own-pi.vercel.app/api?username=ammriteshh&show_icons=true&theme=dark&hide_border=false&include_all_commits=false&count_private=true&ring_color=79FF97" style="width:51%"/>
 </div>
- <div align="center">
 
-   <img src="https://github-readme-stats-own-pi.vercel.app/api/top-langs/?username=ammriteshh-19&layout=compact&theme=dark&count_private=true&langs_count=10&hide=shell,EJS,PHP" style="width: 40%;"/>
-   </div>
+<div align="center">
+   <img src="https://github-readme-stats-own-pi.vercel.app/api/top-langs/?username=ammriteshh&layout=compact&theme=dark&count_private=true&langs_count=10&hide=shell,EJS,PHP" style="width: 40%;"/>
+</div>
 <br>
-
-
-
 
 
 
