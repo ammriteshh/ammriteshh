@@ -32,7 +32,7 @@
    <img src="https://github-readme-stats-own-pi.vercel.app/api?username=ammriteshh&show_icons=true&theme=dark&hide_border=false&include_all_commits=false&count_private=true&ring_color=79FF97" style="width:51%"/>
 </div>
 
-<div align="center">
+<!--<div align="center">-->
    <img src="https://github-readme-stats-own-pi.vercel.app/api/top-langs/?username=ammriteshh&layout=compact&theme=dark&count_private=true&langs_count=10&hide=shell,EJS,PHP" style="width: 40%;"/>
 </div>
 <br>
