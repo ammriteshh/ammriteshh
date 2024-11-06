@@ -24,9 +24,8 @@
 
 <br>
 
-<div align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com?user=ammriteshh&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" style="width: 51%;"/>
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=ammriteshh&theme=github-green-purple&border_radius=4.7&hide_longest_streak=true&border=FFFFFF&card_width=450)](https://git.io/streak-stats)
+
 
 <div align="center">
    <img src="https://github-readme-stats-own-pi.vercel.app/api?username=ammriteshh&show_icons=true&theme=dark&hide_border=false&include_all_commits=false&count_private=true&ring_color=79FF97" style="width:51%"/>
