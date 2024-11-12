@@ -28,7 +28,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ammriteshh&theme=github-green-purple&border_radius=4.7&hide_longest_streak=true&border=FFFFFF&card_width=450" style="margin-bottom: 10px;"/>
 
- <img src="https://github-readme-stats-own-pi.vercel.app/api?username=ammriteshh&show_icons=true&theme=dark&hide_border=false&include_all_commits=false&count_private=true&ring_color=79FF97" style="width: 49%; margin-right: 10px;"/> 
+ <!-- <img src="https://github-readme-stats-own-pi.vercel.app/api?username=ammriteshh&show_icons=true&theme=dark&hide_border=false&include_all_commits=false&count_private=true&ring_color=79FF97" style="width: 49%; margin-right: 10px;"/> -->
 
   <img src="https://github-readme-stats-own-pi.vercel.app/api/top-langs/?username=ammriteshh&layout=compact&theme=dark&count_private=true&langs_count=10&hide=shell,EJS,PHP" style="width: 49%; margin-left: 10px;"/>
 </div>
