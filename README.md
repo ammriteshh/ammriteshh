@@ -6,8 +6,8 @@
 
 <br>
 
-- I'm a 3rd year Computer Science Engineering Student
-- I'm currently learning Data Structures and Algorithms in C++, Web Development, App and Web Testing using Selenium
+- I'm a 3rd year Computer Science Engineering Student.
+- I'm currently learning Data Structures and Algorithms in C++, Web Development, App and Web Testing using Selenium.
 - Reach me at https://www.linkedin.com/in/ammriteshh/
 <!--- 🔗 Check out my portfolio:-->
 
