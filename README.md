@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I am Amritesh Singh 👨‍💻</h1>
+<h1 align="center">Hello, I am Amritesh Singh</h1>
 
 <p align="center">
   <a href="https://github.com/ammriteshh">
@@ -6,33 +6,19 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ammriteshh&label=Profile%20Views&color=00FF00&style=flat" alt="Profile Views" />
-</p>
-
 <hr>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ammriteshh/ammriteshh/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ammriteshh/ammriteshh/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ammriteshh/ammriteshh/output/github-snake.svg" />
-</picture>
-
----
-
 <p align="center">
-  🔭 I’m currently working on Web Applications and C++ DSA Problems.
+  I'm a 3rd year Computer Science Engineering Student
 </p>
 
 <p align="center">
-   🌱 I’m currently learning Tailwind CSS, Next.js, Selenium, and Postman.
+   I'm currently learning Data Structures and Algorithms in C++, Web Development, App & Web Testing using Selenium
 </p>
 
-<p align="center">
+<!--<p align="center">
   📚 I enjoy solving algorithmic problems and exploring full-stack web development.
-</p>
-
----
+</p> -->
 
 <h3 align="center">Languages, Frameworks, and Tools :</h3>
 <p align="center"> 
