@@ -1,6 +1,6 @@
-# Hi there, I'm Amritesh Singh 👋
+# Hi, I'm Amritesh Singh
 
-Welcome to my GitHub profile! I'm a **Computer Science student** at Lovely Professional University, passionate about **full-stack development**, **problem-solving in DSA**, and building impactful projects.
+I'm a **Computer Science student** at Lovely Professional University, passionate about **full-stack development**, **problem-solving in DSA**, and **Web and App Testing**.
 
 ---
 
