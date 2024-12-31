@@ -1,60 +1,49 @@
-<h1 align="center">Hello, I am Amritesh Singh</h1>
+# Hi there, I'm Amritesh Singh 👋
 
-<p align="center">
-  <a href="https://github.com/ammriteshh">
-    <img src="https://readme-typing-svg.herokuapp.com/?size=21&center=true&vCenter=true&width=560&height=45&lines=I+am+a+3rd+Year+Computer+Science+Engineering+Student;Learning+Data+Structures+and+Algorithms+in+C++;Exploring+Web+and+App+Testing+with+Selenium;Passionate+about+Full-Stack+Development" alt="typing text" />
-  </a>
-</p>
-
-<hr>
-
-<p align="center">
-  I'm a 3rd year Computer Science Engineering Student
-</p>
-
-<p align="center">
-   I'm currently learning Data Structures and Algorithms in C++, Web Development, App & Web Testing using Selenium
-</p>
-
-<!--<p align="center">
-  📚 I enjoy solving algorithmic problems and exploring full-stack web development.
-</p> -->
-
-<h3 align="center">Languages, Frameworks, and Tools :</h3>
-<p align="center"> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="html" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="css" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=bQGQnoF8IPBP&format=png&color=000000" alt="postman" width="40" height="40"/> </a>
-  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=UfxZRMqZU1rs&format=png&color=000000" alt="selenium" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=107243&format=png&color=000000" alt="tailwindcss" width="40" height="40"/> </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=xvh2Lz8NNzZi&format=png&color=000000" alt="nextjs" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="git" width="40" height="40"/> </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=LoL4bFzqmAa0&format=png&color=000000" alt="github" width="40" height="40"/> </a>
-</p>
+Welcome to my GitHub profile! I'm a **Computer Science student** at Lovely Professional University, passionate about **full-stack development**, **problem-solving in DSA**, and building impactful projects.
 
 ---
 
-<h3 align="center">Connect with me:</h3>
-<div align="center">
-  <a href="https://www.linkedin.com/in/ammriteshh/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-</div>
+## 👨‍💻 About Me
+- 🌱 I’m currently learning **C++** and **DSA** through documentation and projects.
+- 💻 I enjoy working with **React**, **Next.js**, and **Tailwind CSS** to create modern and responsive web applications.
+- 📚 I’ve completed courses like **Web and Mobile Testing with Selenium**.
+- 🌐 I’ve built projects like an **e-commerce website** and a **portfolio website** using HTML, CSS, JavaScript, and Bootstrap.
+- 📍 I'm from **Varanasi, Uttar Pradesh**.
 
 ---
 
-<h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ammriteshh&show_icons=true&locale=en&layout=compact" alt="Amritesh Singh" width="400" height="200"/>
-</p>
+## 🛠️ Skills and Tools
+### Programming Languages:
+- ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ammriteshh&show_icons=true&locale=en" alt="Amritesh Singh" width="400" height="200"/>
-</p>
+### Frameworks & Libraries:
+- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+- ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+- ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ammriteshh&" alt="Amritesh Singh" width="400" height="200"/>
-</p>
+### Tools:
+- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+- ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+
+## 📈 GitHub Stats
+![Amritesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)](https://github.com/your-github-username)
+
+---
+
+## 📫 Connect with Me
+- **Email**: [your-email@example.com](mailto:amritesh6767@gmail.com)
+- **LinkedIn**: [Amritesh Singh](https://linkedin.com/in/ammriteshh)
+
+---
+
+
