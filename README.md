@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a **Computer Science student** at Lovely Profe
 ## 👨‍💻 About Me
 - 🌱 I’m currently learning **C++** and **DSA** through documentation and projects.
 - 💻 I enjoy working with **React**, **Next.js**, and **Tailwind CSS** to create modern and responsive web applications.
-- 📚 I’ve completed courses like **Web and Mobile Testing with Selenium**.
+- 📚 I’ve completed courses like **Web and Mobile Testing with Selenium and Cloud Computing**.
 - 🌐 I’ve built projects like an **e-commerce website** and a **portfolio website** using HTML, CSS, JavaScript, and Bootstrap.
 - 📍 I'm from **Varanasi, Uttar Pradesh**.
 
@@ -33,15 +33,10 @@ Welcome to my GitHub profile! I'm a **Computer Science student** at Lovely Profe
 - ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 
-## 📈 GitHub Stats
-![Amritesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)](https://github.com/your-github-username)
-
 ---
 
 ## 📫 Connect with Me
-- **Email**: [your-email@example.com](mailto:amritesh6767@gmail.com)
+- **Email**: [amritesh6767@gmail.com.com](mailto:amritesh6767@gmail.com)
 - **LinkedIn**: [Amritesh Singh](https://linkedin.com/in/ammriteshh)
 
 ---
