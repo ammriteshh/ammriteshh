@@ -9,7 +9,7 @@ I'm a **Computer Science student** at Lovely Professional University, passionate
 - 💻 I enjoy working with **React**, **Next.js**, and **Tailwind CSS** to create modern and responsive web applications.
 - 📚 I’ve completed courses like **Web and Mobile Testing with Selenium and Cloud Computing**.
 - 🌐 I’ve built projects like an **e-commerce website** and a **portfolio website** using HTML, CSS, JavaScript, and Bootstrap.
-- 📍 I'm from **Varanasi, Uttar Pradesh**.
+- 📍 I'm from **Chandauli, Uttar Pradesh**.
 
 ---
 
@@ -31,6 +31,8 @@ I'm a **Computer Science student** at Lovely Professional University, passionate
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 - ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 - ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+- ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
 
 
 ---
