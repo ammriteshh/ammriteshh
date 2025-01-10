@@ -1,6 +1,6 @@
 # Hi, I'm Amritesh Singh
 
-I'm a **Computer Science student** at Lovely Professional University, passionate about **full-stack development**, **problem-solving in DSA**, and **Web and App Testing**
+I'm a **Computer Science student** at Lovely Professional University, passionate about **full-stack development**, **problem-solving in DSA**, and **Web and App Testing**.
 
 ---
 
