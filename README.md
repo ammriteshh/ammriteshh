@@ -35,6 +35,7 @@ I'm a **Computer Science student** at Lovely Professional University, passionate
 - ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 - ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 - ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+- ![SoapUI](https://img.shields.io/badge/SoapUI-6CB52D?style=for-the-badge&logo=soapui&logoColor=white)  
 
 
 
