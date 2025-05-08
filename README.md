@@ -41,7 +41,7 @@ I'm a **Computer Science student** at Lovely Professional University, passionate
 ---
 
 ## 📫 Connect with Me
-- **Email**: [amritesh.s628.com](mailto:amritesh.s628@gmail.com)
+- **Email**: [amritesh.s628@gmail.com](mailto:amritesh.s628@gmail.com)
 - **LinkedIn**: [Amritesh Singh](https://linkedin.com/in/ammriteshh)
 
 ---
