@@ -5,7 +5,7 @@ I'm a **Computer Science student** at Lovely Professional University, passionate
 ---
 
 ## 👨‍💻 About Me
-- 🌱 I’m currently learning **Web Development**, **API Testing** and **Data Structures** through documentation and projects.
+- 🌱 I’m currently learning **Web Development**, **API Testing** and **Data Structures**.
 - 💻 I enjoy working with **React**, **Next.js**, and **Tailwind CSS** to create modern and responsive web applications.
 - 📚 I’ve completed courses like **Web and Mobile Testing with Selenium and Cloud Computing**.
 - 🌐 I’ve built projects like an **e-commerce website** and a **portfolio website** using HTML, CSS, JavaScript, and Bootstrap.
