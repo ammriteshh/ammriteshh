@@ -8,7 +8,7 @@ I'm a **Computer Science student** at Lovely Professional University, passionate
 - 🌱 I’m currently learning **Web Development**, **API Testing** and **Data Structures**.
 - 💻 I enjoy working with **React**, **Next.js**, and **Tailwind CSS** to create modern and responsive web applications.
 - 📚 I’ve completed courses like **Web and Mobile Testing with Selenium** and **Cloud Computing**.
-- 📍 I'm from **Chandauli, Uttar Pradesh**
+- 📍 I'm from **Chandauli, Uttar Pradesh**.
 
 ---
 
