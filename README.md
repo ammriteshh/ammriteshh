@@ -17,8 +17,8 @@ I'm a **Computer Science student** at Lovely Professional University, passionate
 - ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 - ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-- ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-- ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- ![Java](https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frameworks & Libraries:
 - ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
