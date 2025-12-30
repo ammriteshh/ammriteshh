@@ -1,13 +1,12 @@
 # Hi, I'm Amritesh Singh
 
-I'm a **Computer Science student** at Lovely Professional University, passionate about **full-stack development**, **problem-solving in DSA**, and **Web and App Testing**.
-
 ---
 
 ## 👨‍💻 About Me
-- 🌱 I’m currently learning **Web Development**, **API Testing** and **Data Structures**.
-- 💻 I enjoy working with **React**, **Next.js**, and **Tailwind CSS** to create modern and responsive web applications.
-- 📚 I’ve completed courses like **Web and Mobile Testing with Selenium** and **Cloud Computing**.
+- 🎓 I'm a **Computer Science and Engineering Student** at Lovely Professional University.
+- 🌱 I’m learning **Web Development**, **API Testing**, **LLMs** and **Data Structures and Alogrithms**.
+- 💻 I enjoy working with **React.js**, **Express.js**, and **Modern Databases** to create modern and responsive web applications.
+- 📚 I’ve completed courses like **Web and Mobile Testing with Selenium**, **Agile Project Management** and **Cloud Computing**.
 - 📍 I'm from **Chandauli, Uttar Pradesh**.
 
 ---
