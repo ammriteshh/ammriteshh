@@ -18,21 +18,24 @@
 - ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 - ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Frameworks & Libraries:
-- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+### Web Development:
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 - ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-- ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
-- ![Rest Assured](https://img.shields.io/badge/Rest%20Assured-6DB33F?style=for-the-badge&logo=java&logoColor=white)
-- ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+- ![REST API](https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white)
+- ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+- ![RBAC](https://img.shields.io/badge/RBAC-4A148C?style=for-the-badge&logo=auth0&logoColor=white)
 
+### Databases:
+- ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+- ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### Tools:
-- ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+### Testing:
+- ![REST Assured](https://img.shields.io/badge/REST%20Assured-6DB33F?style=for-the-badge&logo=java&logoColor=white)
 - ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-- ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=python&logoColor=white)
-- ![Appium](https://img.shields.io/badge/Appium-663399?style=for-the-badge&logo=appium&logoColor=white)
-- ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-- ![SoapUI](https://img.shields.io/badge/SoapUI-6CB52D?style=for-the-badge&logo=soapui&logoColor=white)  
+- ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+- ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+- ![Appium](https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white)
 
 
 
